@@ -1,0 +1,26 @@
+{
+  "name": "csv_read_write",
+  "version": "1.0.0",
+  "description": "how to read and write csv with node",
+  "main": "index.js",
+  "dependencies": {
+    "npm": "^6.11.2",
+    "csv-writer": "^1.5.0",
+    "csv-parser": "^2.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rezafitriaman/csv_read_write.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rezafitriaman/csv_read_write/issues"
+  },
+  "homepage": "https://github.com/rezafitriaman/csv_read_write#readme"
+}

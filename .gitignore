@@ -59,3 +59,15 @@ typings/
 
 # next.js build output
 .next
+
+.idea/
+browser-sync
+browser-sync.cmd
+browser-sync.ps1
+csv-parser
+csv-parser.cmd
+csv-parser.ps1
+npm
+npm.cmd
+npx
+npx.cmd
