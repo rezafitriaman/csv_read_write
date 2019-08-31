@@ -3,7 +3,6 @@ const fs = require('fs');
 
 const array = [];
 
-
 	fs.createReadStream('../NS_BC_TOUCH_AND_TELL.csv')
 		.pipe(csv())
 		.on('data', (row) => {
