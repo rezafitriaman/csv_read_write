@@ -1,0 +1,43 @@
+Unique_ID,Reporting_Label,Targeting_Key,DBM_lineitem_ID,Start_Date,End_Date,Active,Default,Title1,Title2,Title3,Title_Color,Subtitle,Subtitle_Color,CTA_Text,CTA_Text_Color,Background_image1,Background_Image2,CTA_Background_Color,Background_Color,Exit_URL
+1,touch1,[841036],,1/1/2019,12/31/2019,true,true,Elke dag is anders,NS-Business Card,NS-Business Card,#ffffff,De flexibele reisoplossing voor ondernemers,#ffffff,Ontdek meer,#003083,"asset_name: ""ns-zakelijk1.jpg""
+type: 3
+serving_url: ""%ers!://s0.2mdn.net/ads/richmedia/studio/60007963/60007963_20190517015937455_ns-zakelijk1.jpg""
+","asset_name: ""ns-zakelijk2.jpg""
+type: 3
+serving_url: ""%ers!://s0.2mdn.net/ads/richmedia/studio/60007963/60007963_20190517015941780_ns-zakelijk2.jpg""
+",#ffb400,#003083,https://www.ns.nl/zakelijk/ns-business-card
+2,touch2,[841033],,1/1/2019,12/31/2019,true,false,Elke dag is anders,NS-Business Card,NS-Business Card,#ffffff,De flexibele reisoplossing voor ondernemers,#ffffff,Ontdek meer,#003083,"asset_name: ""ns-zakelijk1.jpg""
+type: 3
+serving_url: ""%ers!://s0.2mdn.net/ads/richmedia/studio/60007963/60007963_20190517015937455_ns-zakelijk1.jpg""
+","asset_name: ""ns-zakelijk2.jpg""
+type: 3
+serving_url: ""%ers!://s0.2mdn.net/ads/richmedia/studio/60007963/60007963_20190517015941780_ns-zakelijk2.jpg""
+",#ffb400,#003083,https://www.ns.nl/zakelijk/ns-business-card
+3,tell1,[841333],,1/1/2019,12/31/2019,true,false,Onbezorgd zakelijk reizen,Net een factuur achteraM,NS-Business Card,#ffffff,De flexibele reisoplossing voor ondernemers,#ffffff,Ontdek meer,#003083,"asset_name: ""ns-zakelijk1.jpg""
+type: 3
+serving_url: ""%ers!://s0.2mdn.net/ads/richmedia/studio/60007963/60007963_20190517015937455_ns-zakelijk1.jpg""
+","asset_name: ""ns-zakelijk2.jpg""
+type: 3
+serving_url: ""%ers!://s0.2mdn.net/ads/richmedia/studio/60007963/60007963_20190517015941780_ns-zakelijk2.jpg""
+",#ffb400,#003083,https://www.ns.nl/zakelijk/ns-business-card
+4,tell2,[809988],,1/1/2019,12/31/2019,true,false,Onbezorgd zakelijk reizen,Zonder vaste kosten,NS-Business Card,#ffffff,De flexibele reisoplossing voor ondernemers,#ffffff,Ontdek meer,#003083,"asset_name: ""ns-zakelijk1.jpg""
+type: 3
+serving_url: ""%ers!://s0.2mdn.net/ads/richmedia/studio/60007963/60007963_20190517015937455_ns-zakelijk1.jpg""
+","asset_name: ""ns-zakelijk2.jpg""
+type: 3
+serving_url: ""%ers!://s0.2mdn.net/ads/richmedia/studio/60007963/60007963_20190517015941780_ns-zakelijk2.jpg""
+",#ffb400,#003083,https://www.ns.nl/zakelijk/ns-business-card
+5,tell3,[805170],,1/1/2019,12/31/2019,true,false,Onbezorgd zakelijk reizen,Zonder saldo op te laden,NS-Business Card,#ffffff,De flexibele reisoplossing voor ondernemers,#ffffff,Ontdek meer,#003083,"asset_name: ""ns-zakelijk1.jpg""
+type: 3
+serving_url: ""%ers!://s0.2mdn.net/ads/richmedia/studio/60007963/60007963_20190517015937455_ns-zakelijk1.jpg""
+","asset_name: ""ns-zakelijk2.jpg""
+type: 3
+serving_url: ""%ers!://s0.2mdn.net/ads/richmedia/studio/60007963/60007963_20190517015941780_ns-zakelijk2.jpg""
+",#ffb400,#003083,https://www.ns.nl/zakelijk/ns-business-card
+6,tell4,[809985],,1/1/2019,12/31/2019,true,false,Onbezorgd zakelijk reizen,Met àl het OV,NS-Business Card,#ffffff,De flexibele reisoplossing voor ondernemers,#ffffff,Ontdek meer,#003083,"asset_name: ""ns-zakelijk1.jpg""
+type: 3
+serving_url: ""%ers!://s0.2mdn.net/ads/richmedia/studio/60007963/60007963_20190517015937455_ns-zakelijk1.jpg""
+","asset_name: ""ns-zakelijk2.jpg""
+type: 3
+serving_url: ""%ers!://s0.2mdn.net/ads/richmedia/studio/60007963/60007963_20190517015941780_ns-zakelijk2.jpg""
+",#ffb400,#003083,https://www.ns.nl/zakelijk/ns-business-card
