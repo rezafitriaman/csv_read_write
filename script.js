@@ -1,11 +1,17 @@
+let reza = [123,3332,213];
+let csvObj;
 function loadXMLDoc() {
-    var xmlhttp = new XMLHttpRequest();
+    let xmlhttp = new XMLHttpRequest();
 
     xmlhttp.onreadystatechange = function() {
         if (xmlhttp.readyState === XMLHttpRequest.DONE) {   // XMLHttpRequest.DONE == 4
             if (xmlhttp.status === 200) {
                 document.getElementById("csv-container").innerHTML = xmlhttp.responseText;
-                console.log(JSON.parse(xmlhttp.responseText));
+                csvObj = JSON.parse(xmlhttp.responseText);
+
+                console.log(csvObj);
+                window.aa = csvObj;
+                return csvObj;
             }
             else if (xmlhttp.status === 400) {
                 alert('There was an error 400');
@@ -19,4 +25,9 @@ function loadXMLDoc() {
     xmlhttp.open("GET", "/csv", true);
     xmlhttp.send();
 }
-loadXMLDoc();
+
+let btn = document.getElementById('btn');
+
+btn.addEventListener('click', function () {
+    loadXMLDoc();
+});
