@@ -11,10 +11,10 @@ const port = 2360;
 
 //app.get('/', jsonParser, (req, res) => res.send(readCsv))
 
-//app.use(express.static('./'));
+app.use(express.static('./'));
 app.get('/', function(req, res) {
 	//res.render('./index.html');
-	res.sendFile(__dirname + "/index.html")
+	res.render("index.html")
 });
 
 app.get('/csv', function(req, res) {
@@ -33,7 +33,7 @@ app.get('/csv', function(req, res) {
 
 app.get('/script.js', function(req, res) {
 	//res.render('./index.html');
-	res.sendFile(__dirname + "/script.js")
+	res.render("/script.js")
 });
 
 app.listen(port, () => console.log(`Example app listening on port ${port}!`));
