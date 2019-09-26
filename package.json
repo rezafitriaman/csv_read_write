@@ -2,9 +2,8 @@
   "name": "csv_read_write",
   "version": "1.0.0",
   "description": "how to read and write csv with node",
-  "main": "index.js",
+  "main": "server.js",
   "dependencies": {
-    "npm": "^6.11.2",
     "csv-writer": "^1.5.0",
     "csv-parser": "^2.3.0",
     "express": "^4.17.1"
@@ -12,7 +11,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "start": "node main.js"
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
